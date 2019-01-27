@@ -1,0 +1,30 @@
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg">
+
+ <title/>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect stroke-width="2px" stroke-linejoin="round" stroke="#e50ef4" fill="none" id="svg_1" y="1" x="1" width="62" ry="2" rx="2" height="62" class="cls-1"/>
+  <line stroke-width="2px" stroke-linejoin="round" stroke="#e50ef4" fill="none" id="svg_2" y2="9" y1="9" x2="63" x1="1" class="cls-1"/>
+  <line stroke-width="2px" stroke-linejoin="round" stroke="#e50ef4" fill="none" id="svg_3" y2="5" y1="5" x2="6" x1="4" class="cls-1"/>
+  <line stroke-width="2px" stroke-linejoin="round" stroke="#e50ef4" fill="none" id="svg_4" y2="5" y1="5" x2="10" x1="8" class="cls-1"/>
+  <line stroke-width="2px" stroke-linejoin="round" stroke="#e50ef4" fill="none" id="svg_5" y2="5" y1="5" x2="60" x1="58" class="cls-1"/>
+  <polyline stroke-width="2px" stroke-linejoin="round" stroke="#e50ef4" fill="none" id="svg_6" points="9 13 5 13 5 17" class="cls-1"/>
+  <polyline stroke-width="2px" stroke-linejoin="round" stroke="#e50ef4" fill="none" id="svg_7" points="55 59 59 59 59 55" class="cls-1"/>
+  <path stroke-width="2px" stroke-linejoin="round" stroke="#e50ef4" fill="none" id="svg_8" d="m20,25l0,-8a2,2 0 0 1 2,-2l22,0a2,2 0 0 1 2,2l0,12" class="cls-1"/>
+  <path stroke-width="2px" stroke-linejoin="round" stroke="#e50ef4" fill="none" id="svg_9" d="m20,49l0,6a2,2 0 0 0 2,2l22,0a2,2 0 0 0 2,-2l0,-16" class="cls-1"/>
+  <line stroke-width="2px" stroke-linejoin="round" stroke="#e50ef4" fill="none" id="svg_10" y2="20" y1="20" x2="46" x1="20" class="cls-1"/>
+  <line stroke-width="2px" stroke-linejoin="round" stroke="#e50ef4" fill="none" id="svg_11" y2="52" y1="52" x2="46" x1="20" class="cls-1"/>
+  <polyline stroke-width="2px" stroke-linejoin="round" stroke="#e50ef4" fill="none" id="svg_12" points="9 53 16 46 27 46 34 39 42 39 58 23" class="cls-1"/>
+  <polyline stroke-width="2px" stroke-linejoin="round" stroke="#e50ef4" fill="none" id="svg_13" points="51 23 58 23 58 30" class="cls-1"/>
+  <rect stroke-width="2px" stroke-linejoin="round" stroke="#e50ef4" fill="none" id="svg_14" y="28" x="7" width="17" height="4" class="cls-1"/>
+  <line stroke-width="2px" stroke-linejoin="round" stroke="#e50ef4" fill="none" id="svg_15" y2="36" y1="36" x2="17" x1="6" class="cls-1"/>
+  <line stroke-width="2px" stroke-linejoin="round" stroke="#e50ef4" fill="none" id="svg_16" y2="36" y1="36" x2="23" x1="25" class="cls-1"/>
+  <line stroke-width="2px" stroke-linejoin="round" stroke="#e50ef4" fill="none" id="svg_17" y2="36" y1="36" x2="19" x1="21" class="cls-1"/>
+  <path stroke-width="2px" stroke-linejoin="round" stroke="#e50ef4" fill="none" id="svg_18" d="m27,28l9,0a0.979,0.979 0 0 1 1,1l0,6" class="cls-1"/>
+  <line stroke-width="2px" stroke-linejoin="round" stroke="#e50ef4" fill="none" id="svg_19" y2="43" y1="39" x2="20" x1="20" class="cls-1"/>
+ </g>
+</svg>
