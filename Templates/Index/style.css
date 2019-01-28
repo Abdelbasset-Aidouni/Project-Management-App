@@ -1,0 +1,75 @@
+html{
+	margin: 0;
+}
+body{
+	margin: 0;
+}
+#header{
+	width:100%;
+	height: 500px;
+	
+	background: linear-gradient(221.02deg, rgba(241, 8, 246, 0.79) -4.04%, rgba(245, 46, 236, 0.837515) -4.03%, #22B2F1 98.41%, #22B2F1 98.42%);
+	-webkit-clip-path: polygon(0 0, 100% 0, 100% 86%, 0 100%);
+	clip-path: polygon(0 0, 100% 0, 100% 86%, 0 100%);
+	
+
+}
+.navbar-brand{
+	width: 250px;
+	height: 60px;
+	background-image: url('../../SVGs/Management/logo.svg');
+	background-size: cover;
+}
+.nav-item{
+	font-size: 20px;
+	font-weight: 300;
+	margin-left: 20px;
+}
+.heading-desc{
+	font-size: 20px;
+	font-weight: 300;
+	opacity: .8;
+}
+.heading-title{
+	font-size: 38px;
+	font-weight: 300;
+}
+
+#btn-subscribe{
+	font-size: 28px;
+	font-weight: 300;
+
+}
+#cards{
+	
+}
+.card-service-desc{
+	top: -60px;
+	height: 400px;
+	background-color: white;
+	box-shadow: 3px 4px 10px rgba(0, 0, 0, 0.25);
+}
+.header .icon{
+	width: 60px;
+	height:60px;
+	background-size: cover;
+}
+#icon1{
+	background-image: url('../../SVGs/Management/iconfinder-icon.svg');
+}
+#icon2{
+	background-image: url('../../SVGs/Management/admin.svg');
+}
+#icon3{
+	background-image: url('../../SVGs/Management/in time.svg');
+}
+.header .title{
+	font-size: 30px;
+	font-weight: 300;
+}
+.card-service-desc .body{
+	font-size: 19px;
+	opacity: .8;
+	font-weight: 300;
+	text-align: justify;
+}
